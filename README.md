@@ -10,8 +10,7 @@ A passionate Full-Stack developer from Anatolien
 - [Yasin Yavuz](https://github.com/barbaros163)
 
 
-# React Lifecycke&UseEffect
-
+# React Lifecycle & UseEffect
 ## 🛠 Skills
 HTML, CSS, JAVASCRIPT, REACT
 
