@@ -16,7 +16,7 @@ HTML, CSS, JAVASCRIPT, REACT
 
 
 ## Demo
-Coming Soon
+https://barbaros163.github.io/lifecycle-useEffect_react/
 ## Feedback
 
 If you have any feedback, please reach out to me at barbaros1675@gmail.com
