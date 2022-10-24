@@ -1,0 +1,55 @@
+/**
+ * @license React
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+//!  prevState ve prevProps degerlerini parametre olarak alabilir.
+
+//! (İlk render sonrasi).
+
+//! 1-) Bir componentin olsuturulmasinda cagrilir
+
+//! 2-) Her bir render'da cagrilir
+
+//! 3-) Bir component DOM agacina eklendiginde calistirilir.
+
+//! 4-) Bu metot ilk render haric diger tüm render'lardan sonra cagrilir.
+
+//! 5-) Bir component DOM agacindan kaldiriltiktan hemen sonra cagirlir.
+
+//! Her yasam dongusu icin bir kere calisir.
