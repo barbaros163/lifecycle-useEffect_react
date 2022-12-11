@@ -1,5 +1,6 @@
 import { useState } from "react";
-import LifeCycleMethods from "./components/LifeCycleMethods";
+// import LifeCycleMethods from "./components/LifeCycleMethods";
+import UseEffectHook from "./components/UseEffectHook";
 
 function App() {
   const [show, setShow] = useState(true);
@@ -10,7 +11,8 @@ function App() {
         {show ? "Hide" : "Show"}
       </button>
 
-      {show && <LifeCycleMethods />}
+      {/* {Short Circuit} */}
+      {show && <UseEffectHook />}
     </div>
   );
 }
